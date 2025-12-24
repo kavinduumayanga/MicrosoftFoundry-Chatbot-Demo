@@ -35,7 +35,7 @@ If you missed the live session or want to follow the demo step by step, you can 
 Start learning **Azure AI Foundry** by completing the official Microsoft learning path:
 
 👉 **Create Custom Copilots with AI Studio**  
-https://learn.microsoft.com/azure/ai-studio
+https://learn.microsoft.com/azure/ai-studio?wt.mc_id=studentamb_345548
 
 This learning path helps you understand the fundamentals of Microsoft Foundry and how to build custom AI copilots.
 
@@ -47,7 +47,7 @@ Students can get **free Azure credits** using the **Azure for Students** offer.
 
 ### Steps:
 1. Visit the **Azure for Students** page  
-   👉 https://azure.microsoft.com/free/students/
+   👉 https://azure.microsoft.com/free/students?wt.mc_id=studentamb_345548
 
 2. Click **Activate now** and sign up using your **school or university email**
 
@@ -77,7 +77,6 @@ Open `index.html` and replace the following values with **your Microsoft Foundry
 
 Stay connected and follow me on social media for updates and more:
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
-- **Twitter (X):** https://twitter.com/YOUR_TWITTER_USERNAME  
-- **Facebook:** https://www.facebook.com/YOUR_FACEBOOK_PROFILE  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- **GitHub:** https://github.com/kavinduumayanga   
+- **Facebook:** https://www.facebook.com/kavindu.umayangana.79 
+- **LinkedIn:** www.linkedin.com/in/kavindu-umayanga-93239b319
