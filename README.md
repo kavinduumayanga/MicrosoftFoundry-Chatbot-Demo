@@ -59,6 +59,7 @@ You can use these credits to explore Azure services and build your AI projects a
 
 ---
 
+
 ## Update Your API Details (Important)
 
 Open `index.html` and replace the following values with **your Microsoft Foundry / Azure OpenAI deployment details**:
@@ -72,11 +73,14 @@ Open `index.html` and replace the following values with **your Microsoft Foundry
 </script>
 
 ---
+```
+---
 
 ## Follow Me 🌐
 
 Stay connected and follow me on social media for updates and more:
 
-- **GitHub:** https://github.com/kavinduumayanga   
-- **Facebook:** https://www.facebook.com/kavindu.umayangana.79 
-- **LinkedIn:** www.linkedin.com/in/kavindu-umayanga-93239b319
+- **GitHub:** https://github.com/kavinduumayanga  
+- **Facebook:** https://www.facebook.com/kavindu.umayangana.79  
+- **LinkedIn:** https://www.linkedin.com/in/kavindu-umayanga-93239b319
+
