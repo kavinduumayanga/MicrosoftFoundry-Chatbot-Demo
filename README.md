@@ -1,7 +1,7 @@
-# Microsoft Foundry Chatbot Demo
+# Build Your Own AI Chatbot with Microsoft Foundry
 
 This repository contains a simple demo created after the session  
-**“Build Your Own AI Chatbot with Microsoft Foundry”**, conducted as part of the **Microsoft Student Ambassador (Sri Lanka)** community.
+**“Build Your Own AI Chatbot with Microsoft Foundry”**, conducted as part of the **Microsoft Student Ambassador** community.
 
 The session introduces Microsoft Foundry and demonstrates how to build, test, and integrate an AI chatbot using custom data and a simple web interface.
 
@@ -14,7 +14,7 @@ The session introduces Microsoft Foundry and demonstrates how to build, test, an
 If you missed the live session or want to follow the demo step by step, you can watch the full session recording here:
 
 👉 **Watch the session recording**  
-https://PASTE_YOUR_HIGHTAIL_RECORDING_LINK_HERE
+https://stdntpartners-my.sharepoint.com/:v:/g/personal/kavindu_umayanga_studentambassadors_com/IQCuS4z6ExFUS5odLza2gHn9AUnYr3b-TWuUj8O_y1kjDgE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4lrQR
 
 ### This recording covers:
 - What is **Microsoft Foundry** and why it matters  
