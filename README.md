@@ -1,2 +1,83 @@
-# MicrosoftFoundry-Chatbot-Demo
-A beginner-friendly demo to build, test, and integrate a chatbot using Microsoft Foundry with custom data and a simple web UI.
+# Microsoft Foundry Chatbot Demo
+
+This repository contains a simple demo created after the session  
+**“Build Your Own AI Chatbot with Microsoft Foundry”**, conducted as part of the **Microsoft Student Ambassador (Sri Lanka)** community.
+
+The session introduces Microsoft Foundry and demonstrates how to build, test, and integrate an AI chatbot using custom data and a simple web interface.
+
+![Session Topic](docs/images/topic.png)
+
+---
+
+## 🎥 Session Recording (Watch the Demo)
+
+If you missed the live session or want to follow the demo step by step, you can watch the full session recording here:
+
+👉 **Watch the session recording**  
+https://PASTE_YOUR_HIGHTAIL_RECORDING_LINK_HERE
+
+### This recording covers:
+- What is **Microsoft Foundry** and why it matters  
+- **Chatbot vs AI Agent**  
+- Building a chatbot using Microsoft Foundry (live demo)  
+- Adding custom data  
+- **RAG (Retrieval-Augmented Generation)** basics  
+- **Fine-tuning** and when to use it  
+- Evaluation and detecting hallucinations  
+- **AI safety and security**  
+- Integrating the chatbot into an external website  
+- Learning resources and student benefits  
+
+---
+
+## Step 01 – Getting Started with Azure AI Foundry 🚀
+
+Start learning **Azure AI Foundry** by completing the official Microsoft learning path:
+
+👉 **Create Custom Copilots with AI Studio**  
+https://learn.microsoft.com/azure/ai-studio
+
+This learning path helps you understand the fundamentals of Microsoft Foundry and how to build custom AI copilots.
+
+---
+
+## How to Get Azure Free Credit with Student Sign-Up 🎓💳
+
+Students can get **free Azure credits** using the **Azure for Students** offer.
+
+### Steps:
+1. Visit the **Azure for Students** page  
+   👉 https://azure.microsoft.com/free/students/
+
+2. Click **Activate now** and sign up using your **school or university email**
+
+3. Verify your student status by following the on-screen instructions
+
+4. Once verified, receive **$100 free Azure credits**
+
+You can use these credits to explore Azure services and build your AI projects at no cost.
+
+---
+
+## Update Your API Details (Important)
+
+Open `index.html` and replace the following values with **your Microsoft Foundry / Azure OpenAI deployment details**:
+
+```html
+<script>
+  // Demo config (frontend-only)
+  const API_KEY = "PASTE_YOUR_API_KEY_HERE";
+  const MODEL_NAME = "PASTE_YOUR_DEPLOYMENT_NAME_HERE";
+  const ENDPOINT = "PASTE_YOUR_ENDPOINT_HERE";
+</script>
+
+---
+
+## Follow Me 🌐
+
+Stay connected and follow me on social media for updates and more:
+
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
+- **Twitter (X):** https://twitter.com/YOUR_TWITTER_USERNAME  
+- **Facebook:** https://www.facebook.com/YOUR_FACEBOOK_PROFILE  
+- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
