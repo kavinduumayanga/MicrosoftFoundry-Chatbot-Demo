@@ -35,7 +35,7 @@ If you missed the live session or want to follow the demo step by step, you can 
 Start learning **Azure AI Foundry** by completing the official Microsoft learning path:
 
 👉 **Create Custom Copilots with AI Studio**  
-https://learn.microsoft.com/azure/ai-studio?wt.mc_id=studentamb_345548
+https://learn.microsoft.com/training/paths/create-custom-copilots-ai-studio?wt.mc_id=studentamb_345548
 
 This learning path helps you understand the fundamentals of Microsoft Foundry and how to build custom AI copilots.
 
