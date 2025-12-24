@@ -13,7 +13,7 @@ The session introduces Microsoft Foundry and demonstrates how to build, test, an
 
 If you missed the live session or want to follow the demo step by step, you can watch the full session recording here:
 
-👉 [Watch the session recording]([https://your-link-here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/kavindu_umayanga_studentambassadors_com/IQCuS4z6ExFUS5odLza2gHn9AUnYr3b-TWuUj8O_y1kjDgE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4lrQR))
+👉 [Watch the session recording](https://stdntpartners-my.sharepoint.com/:v:/g/personal/kavindu_umayanga_studentambassadors_com/IQCuS4z6ExFUS5odLza2gHn9AUnYr3b-TWuUj8O_y1kjDgE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DeuXFh)
 
 
 ### This recording covers:
